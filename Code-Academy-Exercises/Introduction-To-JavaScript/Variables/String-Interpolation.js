@@ -1,0 +1,3 @@
+let myName = 'Shane';
+let myCity = 'Laramie';
+console.log(`My name is ${myName}. My favorite city is ${myCity}.`)
