@@ -1,0 +1,17 @@
+p {
+	font-family:Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+/* I learned that you can use multiple classes in an .html class catagory*/
