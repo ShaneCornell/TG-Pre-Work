@@ -2,7 +2,7 @@
 
 ## When we hit https://www.techtonic.com/ what happens? Don’t focus too much on architecture (Monolithic, SOA, Microservices, etc.). Try to focus more on how the web functions.
 
-When the url is hit the address is compared to the DNS to find the corresponding IP address.  Once the IP address is located the browser establishes a connection with the host computer.  After this is done the client-side will start to request information from the server-side and display it to the user.  Now that a connection is made more requests can be made to the server-side computer.  
+When the url is hit the address is compared to the DNS to find a corresponding IP address.  Once the IP address is located the browser establishes a connection with the host computer.  After this is done the client-side will start to request information from the server-side and display it to the user.  Now that a connection is made more requests can be made to the server-side computer.  
 
 ## From start to finish how does that data reach you to be rendered in the browser?
 
