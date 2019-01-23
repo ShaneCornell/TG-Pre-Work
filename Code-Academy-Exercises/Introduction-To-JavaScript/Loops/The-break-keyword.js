@@ -8,3 +8,6 @@ for (let rapperArrayIndex = 0; rapperArrayIndex < rapperArray.length; rapperArra
   }
 };
 console.log("And if you don't know, now you know.");
+
+
+/* I learned about the break command. */

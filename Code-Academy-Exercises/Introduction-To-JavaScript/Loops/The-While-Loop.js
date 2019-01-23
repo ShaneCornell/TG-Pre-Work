@@ -6,3 +6,5 @@ while (currentCard != 'spade'){
   currentCard = cards[Math.floor(Math.random() * 4)];
   console.log(currentCard)
 }
+
+/* I learned about the while loop. */

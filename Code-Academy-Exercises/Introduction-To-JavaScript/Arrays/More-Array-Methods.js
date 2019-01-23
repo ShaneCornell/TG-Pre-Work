@@ -12,3 +12,6 @@ console.log(groceryList);
 
 const pastaIndex = groceryList.indexOf('pasta');
 console.log(pastaIndex)
+
+
+/* I learnec more about arrays. */

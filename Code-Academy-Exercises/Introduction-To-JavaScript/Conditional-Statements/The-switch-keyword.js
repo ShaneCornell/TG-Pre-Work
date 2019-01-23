@@ -14,3 +14,6 @@ switch (athleteFinalPosition){
     console.log('No medal awarded.');
     break;
 }
+
+
+/* I learned about the switch keyword. */

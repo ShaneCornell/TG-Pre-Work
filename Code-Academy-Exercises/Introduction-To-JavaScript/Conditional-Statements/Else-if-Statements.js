@@ -11,3 +11,6 @@ console.log('It\'s sunny and warm because it\'s summer!')
 } else {
   console.log('Invalid season.');
 }
+
+
+/* I learned about else if statements. */

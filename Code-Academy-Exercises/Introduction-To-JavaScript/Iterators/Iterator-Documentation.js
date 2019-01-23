@@ -17,3 +17,5 @@ const interestingWords = words.filter(word => {
 console.log(interestingWords.every((word) => {
 return word.length > 5;
 } ));
+
+/* I learned about iterator documentation. */

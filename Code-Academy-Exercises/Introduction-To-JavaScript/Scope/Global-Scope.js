@@ -7,3 +7,5 @@ function callMyNightSky(){
 }
 
 console.log(callMyNightSky())
+
+/* I learned about global scope. */

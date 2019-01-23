@@ -10,3 +10,6 @@ const logVisibleLightWaves = () => {
 };
 
 logVisibleLightWaves();
+
+
+/* I learned some about practicing good scoping. */

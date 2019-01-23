@@ -2,3 +2,5 @@ const chores = ['wash dishes', 'do laundry', 'take out trash', 'cook dinner', 'm
 
 chores.pop();
 console.log(chores);
+
+/* I learned how to use the pop method. */

@@ -7,3 +7,6 @@ const plantNeedsWater = function(day){
 }
 
 console.log(plantNeedsWater('Tuesday'));
+
+
+/* I learned about function expression. */

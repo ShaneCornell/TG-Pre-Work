@@ -6,3 +6,5 @@ console.log(listItem);
 console.log(famousSayings[2])
 
 console.log(famousSayings[3]);
+
+/* I learned about accessing elements*/

@@ -14,3 +14,5 @@ if (favoritePhrase) {
 } else {
   console.log('This string is definitely empty.');
 }
+
+/* I learned about trythy and falsy.*/

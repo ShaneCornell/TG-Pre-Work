@@ -7,3 +7,5 @@ const foundAnimal = animals.findIndex(animal => {
 const startsWithS = animals.findIndex(animal =>{
   return animal.charAt(0) === 's';
 });
+
+/* I learned  how to use the filter index method. */

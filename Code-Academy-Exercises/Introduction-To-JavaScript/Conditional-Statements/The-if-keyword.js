@@ -3,3 +3,6 @@ sale = false;
 if (sale == true){
   console.log('Time to buy!');
 }
+
+
+/* I learned about the if keyword. */

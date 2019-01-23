@@ -5,3 +5,5 @@ const plantNeedsWater = (day) => {
     return false;
   }
 };
+
+/* I learned about arrow functions. */

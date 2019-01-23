@@ -5,3 +5,5 @@ function logVisibleLightWaves(){
 logVisibleLightWaves();
 
 console.log(lightWaves);
+
+/* I learned about block scope. */

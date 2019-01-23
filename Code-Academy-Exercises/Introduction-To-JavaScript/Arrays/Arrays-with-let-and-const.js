@@ -10,3 +10,5 @@ console.log(condiments);
 
 utensils[3] = 'Spoon';
 console.log(utensils);
+
+/* I learned about how to use let and const around arrays. */

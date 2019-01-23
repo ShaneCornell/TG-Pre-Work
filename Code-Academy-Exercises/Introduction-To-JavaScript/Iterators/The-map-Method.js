@@ -13,3 +13,5 @@ const bigNumbers = [100, 200, 300, 400, 500];
 const smallNumbers = bigNumbers.map(number =>{
   return number/100;
 });
+
+/* I learned how to  use the map method. */

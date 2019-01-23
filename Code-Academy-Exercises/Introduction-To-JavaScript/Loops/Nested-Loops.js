@@ -11,3 +11,5 @@ for(i = 0; bobsFollowers.length > i; i++){
   }
 }
 console.log(mutualFollowers);
+
+/* I learned about nested loops. */

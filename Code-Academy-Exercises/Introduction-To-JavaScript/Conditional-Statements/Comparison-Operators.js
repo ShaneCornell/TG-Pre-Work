@@ -5,3 +5,6 @@ if (hungerLevel >= 7){
 } else {
   console.log('We can eat later!');
 };
+
+
+/* I learned about comparison operators. */

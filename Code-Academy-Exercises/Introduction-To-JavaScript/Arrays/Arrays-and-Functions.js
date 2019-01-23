@@ -12,3 +12,5 @@ function removeElement (newArr){
 }
 removeElement(concept);
 console.log(concept);
+
+/* I learned about arrays and functions. */

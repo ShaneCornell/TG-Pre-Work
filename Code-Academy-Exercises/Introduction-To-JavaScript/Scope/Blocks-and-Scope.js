@@ -4,3 +4,6 @@ function logCitySkyline (){
   return 'The stars over the ' + skyscraper + ' in ' + city;
 }
 console.log(logCitySkyline());
+
+
+/* I learned about blocks and scope. */
