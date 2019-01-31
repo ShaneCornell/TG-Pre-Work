@@ -10,3 +10,5 @@ const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
 const is2p2 = checkThatTwoPlusTwoEqualsFourAMillionTimes;
 is2p2();
 console.log(is2p2.name);
+
+/* I am learning about functions as data. */

@@ -28,3 +28,5 @@ const checkConsistentOutput = (func, value1) => {
   }
 }
 checkConsistentOutput(addTwo, 2)
+
+/* I am learning about funcitons as parameters. */
