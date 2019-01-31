@@ -22,7 +22,7 @@ The client-side code's main function is to interface with the user making reques
 
 ## How many instances of the client-side assets (HTML, CSS, JS, Images, etc.) are created?
 
-A single instance of client-side assets are created for each window that is open to a specific webpage.
+A single instance of client-side assets are created for each window/user that is open to a specific webpage.
 
 ## How many instances of the server-side code are available at any given time?
 
@@ -30,7 +30,7 @@ As many instances of server-side code are available as there are people requesti
 
 ## What is runtime?
 
-Runtime is the calls of code from built in libraries and will be required to run most programs because the JavaScript language is not basic like C.
+Runtime is a term used to describe a program that is running.
 
 ## How many instances of the databases connected to the server application are created?
 
